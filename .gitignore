@@ -1,0 +1,5 @@
+*.pyc
+.vscode
+transactions.json
+/exports
+/__pycache__
