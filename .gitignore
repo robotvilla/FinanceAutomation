@@ -1,5 +1,5 @@
 *.pyc
 .vscode
-transactions.json
+statements.csv
 /exports
 /__pycache__
